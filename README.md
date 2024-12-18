@@ -1,0 +1,1 @@
+This repository demonstrates a common but tricky bug in React Native where a FlatList component renders a blank screen even after successfully fetching data from an API. The bug is caused by an improper handling of asynchronous operations and state updates within the useEffect hook.  The solution provides a corrected version with improved error handling and state management.
